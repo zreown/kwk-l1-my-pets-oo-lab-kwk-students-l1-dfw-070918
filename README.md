@@ -1,5 +1,3 @@
-
-
 ### Objective
 Practice building classes and learn how classes can interact with each other.
 
@@ -14,4 +12,4 @@ Write your code in the cooresponding files in the `lib` directory. Run the tests
 
 [Sandi Metz's Practical Object-Oriented Design in Ruby: An Agile Primer](http://books.flatironschool.com/books/102) - [Chapters 1 and 2](http://books.flatironschool.com/books/102?page=48), page 26
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-my-pets-oo-lab' title='Objective'>Objective</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>KWK-L1 Objective</p>

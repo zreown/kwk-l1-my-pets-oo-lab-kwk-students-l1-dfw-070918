@@ -6,3 +6,5 @@ languages:
 resources: 1
 type:
   - lab
+
+parent_template: git@github.com:learn-co-curriculum/upperline-hs-my-pets-oo-lab.git
