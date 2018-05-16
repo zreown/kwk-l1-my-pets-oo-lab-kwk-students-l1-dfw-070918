@@ -1,12 +1,20 @@
 ### Objective
+
 Practice building classes and learn how classes can interact with each other.
 
 ### Object Models
-<img src="https://after-school-assets.s3.amazonaws.com/dog-fall.gif" width="200px" align="right" hspace="10"> You will be building an `Owner`, `Fish`, `Dog`, and `Cat` class. Owner will know about all its pets, be able to buy a pet, set the name of a pet (which the pet can't change, because that would be weird), change a pet's mood through walking, feeding, or playing with it, and list all of its pets.
+
+<img src="https://after-school-assets.s3.amazonaws.com/dog-fall.gif" width="200px" align="right" hspace="10">
+
+You will be building an `Owner`, `Fish`, `Dog`, and `Cat` class. Owner will know
+about all its pets, be able to buy a pet, set the name of a pet (which the pet
+can't change, because that would be weird), change a pet's mood through walking,
+feeding, or playing with it, and list all of its pets.
 
 ### Instructions
 
-Write your code in the cooresponding files in the `lib` directory. Run the tests and build out your classes. Let the tests guide how to build your classes.
+Write your code in the cooresponding files in the `lib` directory. Run the tests
+and build out your classes. Let the tests guide how to build your classes.
 
 ### Resources
 
