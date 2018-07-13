@@ -1,5 +1,5 @@
 class Cat
-  def {cat.new("crookshanks")}
+  def 
     
   
 
